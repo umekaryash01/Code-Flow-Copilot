@@ -115,7 +115,7 @@ CodeFlow-Copilot
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Yashgarg20/CodeFlow-Copilot.git
+https://github.com/umekaryash01/Code-Flow-Copilot.git
 ```
 
 ```bash
@@ -256,9 +256,9 @@ git push origin feature-name
 
 # 👨‍💻 Author
 
-**Yash Garg**
+**Yash Umekar**
 
-GitHub: https://github.com/Yashgarg20
+GitHub: https://github.com/umekaryash01/Code-Flow-Copilot.git
 
 ---
 
