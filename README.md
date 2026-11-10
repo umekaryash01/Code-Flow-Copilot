@@ -266,12 +266,12 @@ GitHub: https://github.com/umekaryash01/Code-Flow-Copilot.git
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
-It motivates future improvements!
+It motivates future improvements!.
 
 ---
 
 <div align="center">
 
-### 🚀 Built with ❤️ using React, FastAPI & Google Gemini AI
+### 🚀 Built with ❤️ using React, FastAPI & Google Gemini AI ..
 
 </div>
